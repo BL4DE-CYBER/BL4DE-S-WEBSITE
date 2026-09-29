@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+
+    <style>
+        body {
+            background-color: #111827;
+            color: white;
+            font-family: Arial;
+            text-align: center;
+        }
+
+        h1 {
+            color: cyan;
+            font-size: 40px;
+        }
+
+        p {
+            font-size: 20px;
+        }
+
+        button {
+            background-color: cyan;
+            color: black;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 10px;
+            font-size: 18px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <h1>Welcome to my website!</h1>
+
+    <p>My name is Shawn.</p>
+
+    <h2>About Me</h2>
+
+    <p>I am learning HTML, CSS and JavaScript.</p>
+
+    <button>Click Me</button>
+
+</body>
+</html>
+
+
+
+
